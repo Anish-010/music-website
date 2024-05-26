@@ -74,7 +74,7 @@ Similiarly as the images I had been provided with were in a variety of different
 
 ## Deployment
 
-The website has been deployed to Github pages and can be found at: <https://cianhub.github.io/the-monkees-website/>
+The website has been deployed to Github pages and can be found at: <https://anish-010.github.io/music-website/>
 
 ## Installation
 
